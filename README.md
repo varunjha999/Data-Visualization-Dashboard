@@ -1,6 +1,6 @@
 MERN Stack Dashboard App
 
-Project Deployed Url : 
+Project Deployed Url : https://data-visualization-dashboard-6nr3.vercel.app/dashboard
 
 To Run Local
 commands: "npm start" in client folder
